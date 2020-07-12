@@ -315,7 +315,7 @@ vendors:
 # UI
 banner:
   enable: false
-  title: 福建大田桃源镇司法所肖衍呈渎职滥权－行政诉讼资料收集整理
+  title: 调解协议无效诉讼资料收集整理
   src: /js/ui/banner.js
   cloud:
     enable: false

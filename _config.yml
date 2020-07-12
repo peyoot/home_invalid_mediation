@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 项目资料箱
+title: 资料箱
 subtitle: "It's a personal and confidential web portal."
 description: ''
 keywords:
@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://peyoot.github.io/home_administrative_suit
-root: /home_administrative_suit/
+url: http://peyoot.github.io/home_invalid_mediation
+root: /home_invalid_mediation/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -99,5 +99,5 @@ theme: yun
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/peyoot/home_administrative_suit.git
+  repo: https://github.com/peyoot/home_invalid_mediation
   branch: gh-pages
